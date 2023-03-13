@@ -6,7 +6,7 @@
 
 Atualmente:
 
-* Estudante de Análise e Desenvolvimento na FIAP
+* Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 
 **"Faça o que tem que ser feito!!"**
 
