@@ -5,9 +5,10 @@
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorenedev&layout=compact&theme=aura" alt="evander stats"/>
  </div>
 
+
 Atualmente:
 
-* Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+* Estudante do curso Análise e Desenvolvimento de Sistemas na FIAP
 
 **"Faça o que tem que ser feito!!"**
 
