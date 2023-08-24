@@ -1,8 +1,8 @@
 # Gustavo René Dias
 
 <div align="center">
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=gustavorenedev&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>
-<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorenedev&layout=compact&theme=aura" alt="evander stats"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=gustavorenedev&show_icons=true=anuraghazra&show_icons=true&theme=dark" alt="gustavo stats"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorenedev&layout=compact&theme=dark" alt="gustavo stats"/>
  </div>
 
 
