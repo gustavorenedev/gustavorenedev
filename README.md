@@ -29,7 +29,8 @@
 &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)
 &nbsp;
-![react](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=blue&labelColor=0D1117)&nbsp;
+![react](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=blue&labelColor=0D1117)
+&nbsp;
 ![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=23ED8B00&labelColor=0D1117)
 &nbsp;
 ![Spring](https://img.shields.io/badge/spring-0D1117.svg?style=for-the-badge&logo=spring&logoColor=236DB33F&labelColor=0D1117)
@@ -71,6 +72,16 @@
 ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=white&labelColor=0D1117)
 &nbsp;
 ![Docker](https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
+
+### Studying at the moment:
+![.net](https://img.shields.io/badge/-.net-0D1117?style=for-the-badge&logo=.net&logoColor=orange&labelColor=0D1117)
+&nbsp;
+![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=23ED8B00&labelColor=0D1117)
+&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)
+&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927&labelColor=0D1117)
+&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
